@@ -15,5 +15,6 @@ int main(int argc, char *argv[])
 	}
 
 	printf("Debug[%d] end\n", GetCurrentProcessId());
+    system("pause");
 	return r;
 }
