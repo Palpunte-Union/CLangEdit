@@ -1,5 +1,5 @@
 #include "Main.h"
-#include "border.h"
+#include "window/border.h"
 
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 ATOM InitApp(HINSTANCE);
